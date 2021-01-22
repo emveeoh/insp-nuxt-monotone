@@ -1,8 +1,10 @@
 ---
-title: How to create an amazing blog.
-description: Until now, trying to style an article, document, or blog post with Tailwind has been a tedious
-  task that required a keen eye for typography and a lot of complex custom CSS.
+title: How to create an amazing blog.by mvo
+description: Until now, trying to style an article, document, or blog post with
+  Tailwind has been a tedious task that required a keen eye for typography and a
+  lot of complex custom CSS.
 tag: blog
+date: 2021-01-22T18:15:03.780Z
 ---
 
 <p className="lead">
