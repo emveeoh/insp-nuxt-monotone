@@ -5,6 +5,7 @@ description: Until now, trying to style an article, document, or blog post with
   lot of complex custom CSS.
 tag: blog
 date: 2021-01-22T18:15:03.780Z
+thumbnail: /img/mvo-gravitar1.jpeg
 ---
 
 <p className="lead">
